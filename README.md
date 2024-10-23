@@ -23,3 +23,13 @@ b) At the Crossroads
   6) Tennis Set
   7) Will You?
   8) Metro Card
+
+c) Corner of 0s and 1s
+  1) Kill K-th Bit
+  2) Array Packing
+  3) Range Bit Count
+  4) Mirror Bits
+  5) Second-Rightmost Zero Bit
+  6) Swap Adjacent Bits
+  7) Different Rightmost Bit
+  8) Equal Pair of Bits
